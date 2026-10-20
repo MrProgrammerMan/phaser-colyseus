@@ -9,5 +9,13 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "type": "commonjs"
+  "type": "commonjs",
+  "devDependencies": {
+    "parcel": "^2.16.4",
+    "typescript": "^7.0.2"
+  },
+  "dependencies": {
+    "@colyseus/sdk": "^0.18.5",
+    "phaser": "^4.2.1"
+  }
 }
